@@ -14,3 +14,14 @@
 		</li>
 	<li>To run file you have to write in console in this same folder "npm run bulit" to switch on webpack </li>
 </ul>
+
+<h2>Live:</h2>
+<ul>
+	<li>https://rajmundw.github.io/Zlap_Pytona/</li>
+</ul>
+
+<h2>To DO:</h2>
+<ul>
+	<li>new levels</li>
+	<li>RWD</li>
+</ul>
